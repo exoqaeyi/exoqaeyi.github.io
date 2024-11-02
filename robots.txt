@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exoqaeyi.github.io/sGu/sitemap_index.txt
+Sitemap: https://exoqaeyi.github.io/sUr/sitemap_index.txt
+Sitemap: https://exoqaeyi.github.io/tPh/sitemap_index.txt
+Sitemap: https://exoqaeyi.github.io/wLU/sitemap_index.txt
